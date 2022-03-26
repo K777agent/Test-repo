@@ -4,6 +4,6 @@ Lostark
 name = '김예준'
 scholnumber = '201900950'
 major = '컴퓨터전자시스템공학부'
-i = "Hello Python"
+i = "Hello World"
 print(i)
 	
