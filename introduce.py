@@ -7,3 +7,5 @@ major = '컴퓨터전자시스템공학부'
 i = "Hello World"
 print(i)
 #업데이트1
+
+print(name, scholnumber, major)
